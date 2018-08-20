@@ -1,0 +1,12 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Android/Add Parcelable Implementation" />
+    <ignoreAction name="Android/Create Deep Link" />
+    <ignoreAction name="Android/Create onClick event handler" />
+    <ignoreAction name="Android/Extract dimension resource" />
+    <ignoreAction name="Android/Extract string resource" />
+    <ignoreAction name="Android/Override Resource in Other Configuration..." />
+    <ignoreAction name="Android/Remove Parcelable Implementation" />
+    <ignoreAction name="Android/Replace Parcelable Implementation" />
+  </component>
+</application>

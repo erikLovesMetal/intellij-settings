@@ -1,0 +1,30 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="skip_lines_down">
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+    </macro>
+    <macro name="skip_lines_up">
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+    </macro>
+  </component>
+</application>

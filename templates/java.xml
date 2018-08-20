@@ -1,0 +1,12 @@
+<templateSet group="java">
+  <template name="rprint" value="System.out.println(&quot;\033[31m incoming condition is  \033[0m&quot;);" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="scratch" value="class Foo {&#10;  public static void main(String[] args) {&#10;    System.out.println(&quot;SCRATCH PAD&quot;);&#10;    // Code here&#10;  }&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

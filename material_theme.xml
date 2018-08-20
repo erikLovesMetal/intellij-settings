@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.1.3" />
+    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="highlightColor" value="ffc600" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="accentColor" value="ffc600" />
+  </component>
+</application>
