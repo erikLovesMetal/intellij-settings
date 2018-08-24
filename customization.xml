@@ -1,27 +1,51 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="ROR_TOOLS" is_group="true" action_type="-1" position="29">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CAPISTRANO_TOOLS" is_group="true" action_type="-1" position="28">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RAKE_TOOLS" is_group="true" action_type="-1" position="27">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RUBY_TOOLS" is_group="true" action_type="-1" position="26">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XmlBeans" is_group="true" action_type="-1" position="21">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="JAXB" is_group="true" action_type="-1" position="20">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ToolsXmlGroup" is_group="true" action_type="-1" position="8">
       <path value="root" />
       <path value="Main menu" />
       <path value="Tools" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ShowProjectStructureSettings" is_action="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="VcsToobarActions" is_group="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="MaterialTheme.Menu" is_group="true" action_type="1" position="21">
+    <group value="GenerateAntBuild" is_action="true" action_type="-1" position="6">
       <path value="root" />
       <path value="Main menu" />
-      <path value="Tools" />
+      <path value="Build" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
