@@ -28,10 +28,6 @@
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
-  <action id="Debug">
-    <keyboard-shortcut first-keystroke="shift f9" />
-    <keyboard-shortcut first-keystroke="shift f9" second-keystroke="shift meta r" />
-  </action>
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="DuplicatesForm.SendToLeft" />
