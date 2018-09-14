@@ -1,12 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.8.3" />
+    <option name="version" value="2.9.0-pre1" />
     <option name="selectedTheme" value="ONE_DARK" />
-    <option name="highlightColor" value="ffc600" />
-    <option name="highlightColorEnabled" value="true" />
-    <option name="accentColor" value="ffc600" />
-    <option name="userId" value="234abfa7:1656dc7422c:-7fff" />
-    <option name="allowDataCollection" value="true" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="fbde2d" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="userId" value="49090f91:165d692dc03:-8000" />
     <option name="isWizardShown" value="true" />
   </component>
 </application>
