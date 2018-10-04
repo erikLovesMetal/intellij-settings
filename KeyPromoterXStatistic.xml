@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>10</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run...">
