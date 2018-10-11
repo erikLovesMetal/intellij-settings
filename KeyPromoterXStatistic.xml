@@ -54,7 +54,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>26</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>57</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -105,6 +105,30 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'IncidentLifecycleEventTransformerSpec'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'IncidentLifecycleEventTransformerSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'IncidentLifecycleEventTransformerSpec.test that timestamp is set correctly for incident acknowledge'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'IncidentLifecycleEventTransformerSpec.test that timestamp is set correctly for incident acknowledge'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'IncidentLifecycleEventTransformerSpec.test that timestamp is set correctly for incident close'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'IncidentLifecycleEventTransformerSpec.test that timestamp is set correctly for incident close'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SlackServiceApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -134,7 +158,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>8</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
     </option>
