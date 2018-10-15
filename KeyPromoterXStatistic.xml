@@ -54,7 +54,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -137,6 +137,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'InsightsAPIUtilsSpec.test that when we receive a LifecycleMessage with a IncidentLifecycleEvent or ViolationLifecycleEvent, an insightsEvent is sent to AlertLifecycleEvent bucket.'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'InsightsAPIUtilsSpec.test that when we receive a LifecycleMessage with a IncidentLifecycleEvent or ViolationLifecycleEvent, an insightsEvent is sent to AlertLifecycleEvent bucket.'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SlackServiceApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -214,7 +222,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
     </option>
