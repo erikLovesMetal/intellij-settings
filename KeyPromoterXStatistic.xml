@@ -78,7 +78,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'slack_service [bootR...'">
@@ -143,6 +143,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'InsightsAPIUtilsSpec.test that when we receive a LifecycleMessage with a IncidentLifecycleEvent or ViolationLifecycleEvent, an insightsEvent is sent to AlertLifecycleEvent bucket.'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'InsightsAPIUtilsSpec.test that when we receive a LifecycleMessage with a IncidentLifecycleEvent or ViolationLifecycleEvent, an insightsEvent is sent'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'InsightsAPIUtilsSpec.test that when we receive a LifecycleMessage with a IncidentLifecycleEvent or ViolationLifecycleEvent, an insightsEvent is sent'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SlackServiceApplication'">
@@ -222,7 +230,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>53</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
     </option>
