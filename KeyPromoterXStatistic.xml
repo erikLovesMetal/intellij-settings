@@ -30,7 +30,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'slack_service [bootR...'">
@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>115</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -238,7 +238,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'notification_service [run]'</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'slack_service [bootRun]'">
