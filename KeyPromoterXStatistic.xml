@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>125</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
