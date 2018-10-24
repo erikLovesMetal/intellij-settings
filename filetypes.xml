@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;.txt;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping ext="plugin" type="PLAIN_TEXT" />
       <mapping ext="graphqls" type="PLAIN_TEXT" />
+      <mapping ext="plugin" type="PLAIN_TEXT" />
       <mapping pattern="20180702106000_alter_index_on_conditions_account_id_account_id_id_desc" type="Ruby" />
     </extensionMap>
   </component>
