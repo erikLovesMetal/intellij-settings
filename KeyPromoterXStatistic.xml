@@ -105,6 +105,14 @@
           <Count>30</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'⌘4'</ShortCut>
+          <Description>Run</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'slack_service [bootR...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
