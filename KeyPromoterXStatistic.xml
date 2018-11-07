@@ -46,7 +46,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧⌘D'</ShortCut>
           <Description>Debug 'alerts_proxy_service [bootRun]'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'alerts_proxy_service...'">
@@ -174,7 +174,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop ':bootRun'</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop ':run'">
@@ -342,7 +342,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'alerts_proxy_service [bootRun]'</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'notification_service [run]'">
