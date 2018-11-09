@@ -233,6 +233,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CloseIncidentStageSpec.test that when an exception is thrown the stage is marked as failure and the exception is emitted'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CloseIncidentStageSpec.test that when an exception is thrown the stage is marked as failure and the exception is emitted'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'IncidentLifecycleEventTransformerSpec'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
