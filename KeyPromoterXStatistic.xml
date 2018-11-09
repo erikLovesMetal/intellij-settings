@@ -86,7 +86,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>96</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -134,7 +134,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -201,12 +201,36 @@
           <Count>20</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CloseIncidentStageSpec'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CloseIncidentStageSpec'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CloseIncidentStageSpec.#closeIncident is NOT called and event is NOT built when incident does NOT exist on context'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'CloseIncidentStageSpec.#closeIncident is NOT called and event is NOT built when incident does NOT exist on context'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CloseIncidentStageSpec.#closeIncident is NOT called and event is NOT built when incident exists on context, and open critical violation count is &gt; 0'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CloseIncidentStageSpec.#closeIncident is NOT called and event is NOT built when incident exists on context, and open critical violation count is &gt; 0'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CloseIncidentStageSpec.#closeIncident is SKIPPED when incident exists on context, AND incident is ALREADY CLOSED'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CloseIncidentStageSpec.#closeIncident is SKIPPED when incident exists on context, AND incident is ALREADY CLOSED'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'IncidentLifecycleEventTransformerSpec'">
