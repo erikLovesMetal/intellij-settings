@@ -86,7 +86,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>104</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>250</Count>
+          <Count>252</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -343,6 +343,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SlashDeathServiceApplication'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ViolationRepositoryHelperSpec.test that when a violation is closed, a LifecycleViolation close event is created and associated with the violation'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ViolationRepositoryHelperSpec.test that when a violation is closed, a LifecycleViolation close event is created and associated with the violation'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WorkflowServiceV3Spec.test that when incident acknowledge live feature flag is #liveEnabled and dark flag is #darkEnabled workflow chain is executed #executions times and Insights event is created'">
