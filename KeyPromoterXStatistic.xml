@@ -86,7 +86,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>106</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -279,6 +279,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'IncidentLifecycleEventTransformerSpec.test that timestamp is set correctly for incident close'</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'IncidentSupportControllerSpec.test that when a request is made to reconcile open incidents and a single match is found and closed successfully, an HTTP 200 response containing the correct number of closed incidents is returned'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'IncidentSupportControllerSpec.test that when a request is made to reconcile open incidents and a single match is found and closed successfully, an HTTP 200 response containing the correct number of closed incidents is returned'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'InsightsAPIUtilsSpec.test that when we receive a LifecycleMessage with a IncidentLifecycleEvent or ViolationLifecycleEvent, an insightsEvent is sent to AlertLifecycleEvent bucket.'">
