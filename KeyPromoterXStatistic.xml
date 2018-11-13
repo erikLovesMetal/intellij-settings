@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>272</Count>
+          <Count>275</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -279,6 +279,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'IncidentLifecycleEventTransformerSpec.test that timestamp is set correctly for incident close'</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'IncidentSupportControllerSpec.test retrt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'IncidentSupportControllerSpec.test retrt'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'IncidentSupportControllerSpec.test that when a request is made to reconcile open incidents and a single match is found and closed successfully, an HTTP 200 response containing the correct number of closed incidents is returned'">
