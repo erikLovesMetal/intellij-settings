@@ -86,7 +86,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>113</Count>
+          <Count>118</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>269</Count>
+          <Count>272</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -134,7 +134,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>68</Count>
+          <Count>87</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -294,7 +294,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'IncidentSupportControllerSpec.test that when a request is made to reconcile open incidents and matches are found and closed successfully, an HTTP 200 response containing the correct number of closed incidents is returned'</Description>
-          <Count>20</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'IncidentSupportControllerSpec.test that when a request is made to reconcile open incidents and matches are found but an exception occurs when attempting to close an incident, the incident that failed to close is excluded from the count in the HTTP 200 response'">
