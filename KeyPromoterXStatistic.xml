@@ -102,7 +102,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>118</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>289</Count>
+          <Count>293</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -271,6 +271,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'CreateIncidentStageTest.test that createIncident is called when no incident on context and violation priority is 3 and FF is enabled'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'EntityEncryptionListenerSpec.XXXX test that when a channel configuration entity is persisted to the data store, the value is NOT encrypted if the configuration key is 'user_id''">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'EntityEncryptionListenerSpec.XXXX test that when a channel configuration entity is persisted to the data store, the value is NOT encrypted if the configuration key is 'user_id''</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'IncidentLifecycleEventTransformerSpec'">
