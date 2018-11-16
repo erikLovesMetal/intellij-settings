@@ -46,7 +46,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'alert_service [bootR...'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'alert_service [run]'">
@@ -54,7 +54,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug 'alert_service [run]'</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'alerts_proxy_service [bootRun]'">
@@ -478,7 +478,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'alert_service [run]'</Description>
-          <Count>44</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'alerts_proxy_service [bootRun]'">
@@ -510,7 +510,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12' or '⌘T'</ShortCut>
           <Description>Terminal</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
