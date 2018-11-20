@@ -193,6 +193,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'incident_lifecycle_s...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'incident_lifecycle_s...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'notification_content...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -487,6 +495,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'alerts_proxy_service [bootRun]'</Description>
           <Count>32</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'incident_lifecycle_service [analyzeDependencyVersions]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'incident_lifecycle_service [analyzeDependencyVersions]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'notification_service [run]'">
