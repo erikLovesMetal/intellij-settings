@@ -1,27 +1,13 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="ROR_TOOLS" is_group="true" action_type="-1" position="29">
+    <group value="JspActions" is_group="true" action_type="-1" position="55">
       <path value="root" />
-      <path value="Main menu" />
-      <path value="Tools" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CAPISTRANO_TOOLS" is_group="true" action_type="-1" position="28">
+    <group value="XmlGenerateToolsGroup" is_group="true" action_type="-1" position="40">
       <path value="root" />
-      <path value="Main menu" />
-      <path value="Tools" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RAKE_TOOLS" is_group="true" action_type="-1" position="27">
-      <path value="root" />
-      <path value="Main menu" />
-      <path value="Tools" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RUBY_TOOLS" is_group="true" action_type="-1" position="26">
-      <path value="root" />
-      <path value="Main menu" />
-      <path value="Tools" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="XmlBeans" is_group="true" action_type="-1" position="21">
@@ -36,6 +22,11 @@
       <path value="Tools" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="HelpMenu" is_group="true" action_type="-1" position="12">
+      <path value="root" />
+      <path value="Main menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ToolsXmlGroup" is_group="true" action_type="-1" position="8">
       <path value="root" />
       <path value="Main menu" />
@@ -46,6 +37,29 @@
       <path value="root" />
       <path value="Main menu" />
       <path value="Build" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WebServicesPlugin.GenerateJavaFromXmlBeansSchemas" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="WebServices" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WebServicesPlugin.GenerateJavaFromJAXBSchemas" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="WebServices" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="JspActions" is_group="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="WebServicesPlugin.GenerateJAXBSchemasFromJava" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="WebServices" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
