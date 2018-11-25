@@ -118,7 +118,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -159,6 +159,14 @@
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Apple Music Redux [bootRun]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10' or '⌘B'</ShortCut>
+          <Description>Run 'Apple Music Redux [bootRun]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alert_service [bootR...'">
@@ -239,6 +247,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop ':run'</Description>
           <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Apple Music Redux [bootRun]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Apple Music Redux [bootRun]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CloseIncidentStageSpec'">
