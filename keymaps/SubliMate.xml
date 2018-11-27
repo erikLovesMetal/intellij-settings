@@ -4,7 +4,9 @@
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
-  <action id="ActivateProjectToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
@@ -143,10 +145,6 @@
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="escape" />
-  </action>
-  <action id="HideAllWindows">
-    <keyboard-shortcut first-keystroke="shift meta f12" />
-    <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="Images.Thumbnails.EnterAction" />
   <action id="Macro.skip_lines_down">
