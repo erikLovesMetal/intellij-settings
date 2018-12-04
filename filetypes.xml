@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;.txt;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*ajcore.*.*.*.txt;*~;.DS_Store;.git;.hg;.svn;.txt;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
