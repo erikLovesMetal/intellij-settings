@@ -15,6 +15,7 @@
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="shift meta 9" />
+    <keyboard-shortcut first-keystroke="shift meta v" />
   </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
@@ -163,6 +164,7 @@
     <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="ParameterInfo" />
+  <action id="PasteMultiple" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
