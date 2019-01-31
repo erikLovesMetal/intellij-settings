@@ -1,27 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="JspActions" is_group="true" action_type="-1" position="55">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="XmlGenerateToolsGroup" is_group="true" action_type="-1" position="40">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="XmlBeans" is_group="true" action_type="-1" position="21">
-      <path value="root" />
-      <path value="Main menu" />
-      <path value="Tools" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="JAXB" is_group="true" action_type="-1" position="20">
-      <path value="root" />
-      <path value="Main menu" />
-      <path value="Tools" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="HelpMenu" is_group="true" action_type="-1" position="12">
       <path value="root" />
       <path value="Main menu" />
