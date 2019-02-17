@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="javac" description="Single File Compile" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/javac" />
+      <option name="PARAMETERS" value="$FileName$ -d $OutputPath$" />
+      <option name="WORKING_DIRECTORY" value="$Sourcepath$" />
+    </exec>
+  </tool>
+</toolSet>
