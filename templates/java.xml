@@ -1,6 +1,7 @@
 <templateSet group="java">
-  <template name="rprint" value="System.out.println(&quot;\033[31m incoming condition is  \033[0m&quot;);" description="" toReformat="false" toShortenFQNames="true">
+  <template name="rprint" value="System.out.println(&quot;\033[31m output is &quot; +  + &quot;\033[0m&quot;);" description="" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="GROOVY" value="true" />
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
