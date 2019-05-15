@@ -4,7 +4,7 @@
     <property name="created">2017-12-11T11:31:59</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-08-21T16:37:04</property>
+    <property name="modified">2019-05-15T11:53:32</property>
     <property name="originalScheme">Material Theme -Darker Custom</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -18,7 +18,6 @@
   </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="444444" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -51,6 +50,7 @@
     <option name="GUTTER_BACKGROUND" value="212121" />
     <option name="INDENT_GUIDE" value="" />
     <option name="LINE_NUMBERS_COLOR" value="aeaeae" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="fbde2d" />
     <option name="METHOD_SEPARATORS_COLOR" value="303030" />
     <option name="MODIFIED_LINES_COLOR" value="d9f5dd" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
