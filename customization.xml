@@ -23,40 +23,11 @@
       <path value="Tools" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="GenerateAntBuild" is_action="true" action_type="-1" position="6">
-      <path value="root" />
-      <path value="Main menu" />
-      <path value="Build" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="WebServicesPlugin.GenerateJavaFromXmlBeansSchemas" is_action="true" action_type="-1" position="4">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <path value="WebServices" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="WebServicesPlugin.GenerateJavaFromJAXBSchemas" is_action="true" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <path value="WebServices" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="JspActions" is_group="true" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Scope View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="org.jetbrains.plugins.ruby.ruby.run.configuration.nailgun.JRubyRunNailgunServerAction" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Main menu" />
       <path value="Tools" />
       <path value="Ruby Tools" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="WebServicesPlugin.GenerateJAXBSchemasFromJava" is_action="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <path value="WebServices" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
