@@ -23,11 +23,58 @@
       <path value="Tools" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunAnything" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowProjectStructureSettings" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DefaultProfilerExecutorGroup" is_group="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="Run/Debug" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="org.jetbrains.plugins.ruby.ruby.run.configuration.nailgun.JRubyRunNailgunServerAction" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Main menu" />
       <path value="Tools" />
       <path value="Ruby Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBarVcsGroup" is_group="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Coverage" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="Run/Debug" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CompileDirty" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CompileDirty" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="Toolbar Make Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
