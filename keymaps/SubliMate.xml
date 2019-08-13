@@ -174,11 +174,10 @@
   </action>
   <action id="PropertyInspectorActions.EditValue" />
   <action id="Replace" />
-  <action id="RerunTests">
-    <keyboard-shortcut first-keystroke="ctrl meta r" />
-    <keyboard-shortcut first-keystroke="shift alt r" />
+  <action id="Rerun">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="RerunTests" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="meta b" />
