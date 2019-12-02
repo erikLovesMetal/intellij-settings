@@ -6,11 +6,5 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/alert_service_dev</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="Label Service DB" uuid="7012c0e0-2d14-45f3-b827-a40578d5107b">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/label_service_dev</jdbc-url>
-    </data-source>
   </component>
 </application>
