@@ -6,5 +6,23 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/alert_service_dev</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="Recent Events Service Staging" uuid="b63eab1e-d1c0-4b5f-91b2-ee3621fecae4">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://psql-staging-alertsdb-recent-events.nr-ops.net:5432/alertsdb_recent_events</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Alert Service RO Production" uuid="8646ca5f-2edf-4091-8b16-dc5eb0ae8a1d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://prod-alertsdb-ro.nr-ops.net:5432/alert_prod</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Alert Service Staging" uuid="e04ed4cb-aa94-44b4-9530-3f21b91ff49f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://psql-alerts-staging.nr-ops.net:5432/alert_staging</jdbc-url>
+    </data-source>
   </component>
 </application>
