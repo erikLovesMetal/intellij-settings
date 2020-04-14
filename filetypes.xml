@@ -6,9 +6,9 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="plugin" type="PLAIN_TEXT" />
       <mapping ext="graphqls" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="20180702106000_alter_index_on_conditions_account_id_account_id_id_desc" type="Ruby" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
